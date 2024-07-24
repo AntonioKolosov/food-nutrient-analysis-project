@@ -1,0 +1,6 @@
+foodvenv/
+__pycache__/
+.vscode
+cleaned_food.csv
+food.csv
+categories.txt
